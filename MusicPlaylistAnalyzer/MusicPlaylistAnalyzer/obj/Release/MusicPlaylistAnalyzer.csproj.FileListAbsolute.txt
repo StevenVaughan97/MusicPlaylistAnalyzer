@@ -1,0 +1,6 @@
+C:\Users\hekno\source\repos\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Release\MusicPlaylistAnalyzer.exe.config
+C:\Users\hekno\source\repos\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Release\MusicPlaylistAnalyzer.exe
+C:\Users\hekno\source\repos\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Release\MusicPlaylistAnalyzer.pdb
+C:\Users\hekno\source\repos\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Release\MusicPlaylistAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\hekno\source\repos\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Release\MusicPlaylistAnalyzer.exe
+C:\Users\hekno\source\repos\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Release\MusicPlaylistAnalyzer.pdb
